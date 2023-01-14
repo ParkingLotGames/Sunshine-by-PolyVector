@@ -2,9 +2,9 @@
     "name": "com.polyvector.sunshine",
     "displayName": "Sunshine",
     "version": "1.7.8",
-    "documentationUrl": "https://github.com/ParkingLotGames/Sunshine-Volumetric-Light-Scattering",
-    "changelogUrl": "https://github.com/ParkingLotGames/Sunshine-Volumetric-Light-Scattering/releases",
-    "licensesUrl": "https://github.com/ParkingLotGames/Sunshine-Volumetric-Light-Scattering/blob/master/LICENSE",
-    "description": "A Hierarchy extension that shows Game Objects starting in '-' as headers, in a black box with bold, hi-caps font",
+    "documentationUrl": "https://github.com/ParkingLotGames/Sunshine-by-PolyVector",
+    "changelogUrl": "https://github.com/ParkingLotGames/Sunshine-by-PolyVector/releases",
+    "licensesUrl": "https://github.com/ParkingLotGames/Sunshine-by-PolyVector/blob/master/LICENSE",
+    "description": "Sunshine! gives you AAA Quality Volumetric Light Scatter, and improved Soft Shadows in Unity. It takes the look of your game to a whole new level, and can even bring shadows to unsupported platforms like Tegra 3",
     "hideInEditor": false
   }
